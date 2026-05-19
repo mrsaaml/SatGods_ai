@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "section": "Verbal",
+    "question_text": "When investigating the link between glacial melt and rising sea_____ scientists often require advanced equipment, including probes that can reach areas that no human explorer could. One such device, an agile submersible dubbed Icefin, has been instrumental in providing images of ice melt below the Thwaites Glacier. Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": [
+      "A) levels and",
+      "B) levels,",
+      "C) levels",
+      "D) levels, and"
+    ],
+    "correct_answer": "A) levels and"
+  },
+  {
+    "id": 2,
+    "section": "Verbal",
+    "question_text": "When consumed as a trace component of drinking water, selenium has beneficial effects in strengthening the immune system; consumed in excess, selenium acts as a toxin. These facts are _____ ecological chemist Karen Jenni, who has traced selenium concentrations in reservoirs, particularly the Lake Koocanusa reservoir in British Columbia. Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": [
+      "A) important to:",
+      "B) important to",
+      "C) important: to",
+      "D) important to;"
+    ],
+    "correct_answer": "B) important to"
+  },
+  {
+    "id": 3,
+    "section": "Verbal",
+    "question_text": "New research on giant kelp has revealed that this underwater plant can adapt to nutrient shortages. As a team from the University of California, Santa Barbara, discovered through combined fieldwork and lab trials, kelp thrives on two _____ and treats them as interchangeable: an ammonium shortage, for instance, is not a problem if urea is abundant. Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": [
+      "A) nutrients, urea, and ammonium",
+      "B) nutrients, urea, and ammonium,",
+      "C) nutrients urea and ammonium",
+      "D) Nutrients, urea and ammonium,"
+    ],
+    "correct_answer": "A) nutrients, urea, and ammonium"
+  },
+  {
+    "id": 4,
+    "section": "Verbal",
+    "question_text": "Medical practitioners during the Middle Ages and the Renaissance believed that various human emotions were explained by substances or 'humours' that arose and circulated in the body. For instance, dry and chilly conditions would presumably produce a black substance _____ as bile, which presumably led to the sad condition as melancholy. Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": [
+      "A) known, both then and now,",
+      "B) known both then and now,",
+      "C) known both then, and now,",
+      "D) known, both then and now"
+    ],
+    "correct_answer": "D) known, both then and now"
+  },
+  {
+    "id": 5,
+    "section": "Verbal",
+    "question_text": "Polynesian and Micronesian navigators resorted to stick_____ that provided information about the locations of islands and about ocean currents. In a stick chart, small pieces of coral signify island positions, and connective sticks indicate the movements of nearby swells of the Pacific Ocean. Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": [
+      "A) charts, map-like constructions:",
+      "B) charts map-like constructions,",
+      "C) charts, map-like constructions",
+      "D) charts map-like constructions"
+    ],
+    "correct_answer": "C) charts, map-like constructions"
+  },
+  {
+    "id": 6,
+    "section": "Math",
+    "question_text": "A commuter in a major city uses a pre-paid transit card to pay for train fares. The card initially has a balance of $150. Each round trip on the train costs $6.25. If the commuter only uses the card for these train trips, after how many round trips will the balance on the card be exactly $25?",
+    "answer_choices": [
+      "A) 4",
+      "B) 20",
+      "C) 24",
+      "D) 28"
+    ],
+    "correct_answer": "B) 20"
+  },
+  {
+    "id": 7,
+    "section": "Math",
+    "question_text": "A florist has 225 flowers to use for a wedding decoration. The florist uses 15 flowers for a small centerpiece and the remaining f flowers for a large bouquet. What is the value of f?",
+    "answer_choices": [
+      "A) 15",
+      "B) 210",
+      "C) 240",
+      "D) 3375"
+    ],
+    "correct_answer": "B) 210"
+  },
+  {
+    "id": 8,
+    "section": "Math",
+    "question_text": "A group of 4 friends each purchased a museum ticket and a 15 dollar souvenir poster. The total amount the group spent on tickets and posters can be represented by the equation 4(x + 15) = 220, where x is the cost, in dollars, of one museum ticket. Which equation has the same solution as the given equation?",
+    "answer_choices": [
+      "A) x + 15 = 880",
+      "B) x + 15 = 55",
+      "C) x + 15 = 216",
+      "D) x + 15 = 40"
+    ],
+    "correct_answer": "B) x + 15 = 55"
+  },
+  {
+    "id": 9,
+    "section": "Math",
+    "question_text": "A local community center offered a total of 742 fitness classes last year. Each class was either a yoga class or a pilates class. If 458 of the classes were yoga classes, how many of the classes were pilates classes?",
+    "answer_choices": [
+      "A) 284",
+      "B) 458",
+      "C) 742",
+      "D) 1200"
+    ],
+    "correct_answer": "A) 284"
+  },
+  {
+    "id": 10,
+    "section": "Math",
+    "question_text": "A fitness center charges a one-time registration fee of 55 dollars and a monthly membership fee of 25 dollars. If Alex paid a total of 330 dollars to the fitness center, which of the following equations can be used to find m, the number of months he has been a member?",
+    "answer_choices": [
+      "A) 25m + 55 = 330",
+      "B) 25m - 55 = 330",
+      "C) 25 + 55m = 330",
+      "D) 25 - 55m = 330"
+    ],
+    "correct_answer": "A) 25m + 55 = 330"
+  }
+]
