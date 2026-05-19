@@ -1,0 +1,12 @@
+# 1. Запусти сервер
+node server.js
+
+чтобы чекать в postman
+http://localhost:3002/api/chat
+
+дальше гет-боди-роу-жейсон-
+{
+  "question_id": 1,
+  "user_message": "I don't understand this question"
+}
+

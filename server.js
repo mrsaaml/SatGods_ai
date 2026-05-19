@@ -8,7 +8,7 @@ app.use(express.json())
 
 
 app.post('/api/chat', async (req, res) => {
-  const { question_id, user_message } = req.body;
+  const { question_id, user_message, history } = req.body;
 
   const question = questions.find(q => q.id === parseInt(question_id))
 
@@ -19,6 +19,7 @@ app.post('/api/chat', async (req, res) => {
     const answer_groq = await getGroqChatCompletion({ question_text: question.question_text,
     answer_choices: question.answer_choices,
     correct_answer: question.correct_answer,
+    history:history || [],
     user_message })
     res.json({ reply: answer_groq.choices[0].message.content })
   }
